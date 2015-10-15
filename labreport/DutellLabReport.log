@@ -1,0 +1,1288 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  12 OCT 2015 19:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**DutellLabReport.tex
+(./DutellLabReport.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count88
+\WF@box=\box26
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks19
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@ContinuedFloat=\count93
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count94
+\c@subtable=\count95
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen122
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen123
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks21
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks22
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks23
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./DutellLabReport.aux
+
+LaTeX Warning: Label `fig:amtfs' multiply defined.
+
+
+LaTeX Warning: Label `fig:amtfs' multiply defined.
+
+)
+\openout1 = `DutellLabReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen131
+\scratchbox=\box31
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen132
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+<img/shwfs.png, id=13, 948.54375pt x 437.635pt>
+File: img/shwfs.png Graphic file (type png)
+ <use img/shwfs.png>
+Package pdftex.def Info: img/shwfs.png used on input line 51.
+(pdftex.def)             Requested size: 352.31625pt x 162.55013pt.
+
+<img/wavefrontabb.png, id=14, 797.98125pt x 600.2425pt>
+File: img/wavefrontabb.png Graphic file (type png)
+
+<use img/wavefrontabb.png>
+Package pdftex.def Info: img/wavefrontabb.png used on input line 60.
+(pdftex.def)             Requested size: 187.89914pt x 141.33177pt.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+65.
+
+<img/Vasha_R_G_0530_2.png, id=15, 1027.84pt x 1027.84pt>
+File: img/Vasha_R_G_0530_2.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2.png used on input line 67.
+(pdftex.def)             Requested size: 117.43875pt x 117.43846pt.
+ [2 <./img/shwfs.png> <./img/wavefrontabb.png>]
+<img/Zernike_polynomials2.png, id=19, 1573.88pt x 1573.88pt>
+File: img/Zernike_polynomials2.png Graphic file (type png)
+
+<use img/Zernike_polynomials2.png>
+Package pdftex.def Info: img/Zernike_polynomials2.png used on input line 81.
+(pdftex.def)             Requested size: 140.92793pt x 140.92262pt.
+
+Underfull \hbox (badness 1648) in paragraph at lines 82--82
+[]\OT1/cmr/m/n/10 Figure 4: |Zernike Poly-no-mi-
+ []
+
+[3 <./img/Vasha_R_G_0530_2.png (PNG copy)> <./img/Zernike_polynomials2.png (PNG
+ copy)>] <img/meanbar.pdf, id=24, 1084.05pt x 361.35pt>
+File: img/meanbar.pdf Graphic file (type pdf)
+ <use img/meanbar.pdf>
+Package pdftex.def Info: img/meanbar.pdf used on input line 174.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+
+[4 <./img/meanbar.pdf>] <img/stdbar.pdf, id=37, 1084.05pt x 361.35pt>
+File: img/stdbar.pdf Graphic file (type pdf)
+
+<use img/stdbar.pdf>
+Package pdftex.def Info: img/stdbar.pdf used on input line 187.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+ <img/orderrms.pdf, id=38, 505.89pt x 361.35pt>
+File: img/orderrms.pdf Graphic file (type pdf)
+
+<use img/orderrms.pdf>
+Package pdftex.def Info: img/orderrms.pdf used on input line 200.
+(pdftex.def)             Requested size: 234.8775pt x 167.77238pt.
+ [5 <./img/stdbar.pdf> <./img/orderrms.pdf>]
+<img/Angie_WFA.png, id=53, 578.6418pt x 433.62pt>
+File: img/Angie_WFA.png Graphic file (type png)
+ <use img/Angie_WFA.png>
+Package pdftex.def Info: img/Angie_WFA.png used on input line 249.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Angie_PSF.png, id=54, 1003.75pt x 1003.75pt>
+File: img/Angie_PSF.png Graphic file (type png)
+ <use img/Angie_PSF.png>
+Package pdftex.def Info: img/Angie_PSF.png used on input line 255.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[6] <img/Baldwin_WFA.png, id=59, 578.6418pt x 433.62pt>
+File: img/Baldwin_WFA.png Graphic file (type png)
+
+<use img/Baldwin_WFA.png>
+Package pdftex.def Info: img/Baldwin_WFA.png used on input line 266.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+ <img/Baldwin_PSF.png, id=60, 1003.75pt x 1003.75pt>
+File: img/Baldwin_PSF.png Graphic file (type png)
+
+<use img/Baldwin_PSF.png>
+Package pdftex.def Info: img/Baldwin_PSF.png used on input line 272.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+ [7 <./img/Angie_WFA.png (PNG copy)> <./img/Angie_PSF.png (PNG copy)> <./img/Ba
+ldwin_WFA.png (PNG copy)> <./img/Baldwin_PSF.png (PNG copy)>] <img/Bensaid_WFA.
+png, id=66, 578.6418pt x 433.62pt>
+File: img/Bensaid_WFA.png Graphic file (type png)
+
+<use img/Bensaid_WFA.png>
+Package pdftex.def Info: img/Bensaid_WFA.png used on input line 285.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+ <img/Bensaid_PSF.png, id=67, 1003.75pt x 1003.75pt>
+File: img/Bensaid_PSF.png Graphic file (type png)
+
+<use img/Bensaid_PSF.png>
+Package pdftex.def Info: img/Bensaid_PSF.png used on input line 291.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+ <img/Billie_WFA.png, id=68, 578.6418pt x 433.62pt>
+File: img/Billie_WFA.png Graphic file (type png)
+
+<use img/Billie_WFA.png>
+Package pdftex.def Info: img/Billie_WFA.png used on input line 303.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+ <img/Billie_PSF.png, id=69, 1003.75pt x 1003.75pt>
+File: img/Billie_PSF.png Graphic file (type png)
+
+<use img/Billie_PSF.png>
+Package pdftex.def Info: img/Billie_PSF.png used on input line 309.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+ [8
+
+ <./img/Bensaid_WFA.png (PNG copy)> <./img/Bensaid_PSF.png (PNG copy)> <./img/B
+illie_WFA.png (PNG copy)> <./img/Billie_PSF.png (PNG copy)>] <img/Ethan_WFA.png
+, id=73, 578.6418pt x 433.62pt>
+File: img/Ethan_WFA.png Graphic file (type png)
+
+<use img/Ethan_WFA.png>
+Package pdftex.def Info: img/Ethan_WFA.png used on input line 323.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+ <img/Ethan_PSF.png, id=74, 1003.75pt x 1003.75pt>
+File: img/Ethan_PSF.png Graphic file (type png)
+
+<use img/Ethan_PSF.png>
+Package pdftex.def Info: img/Ethan_PSF.png used on input line 329.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+ <img/Jazzi_WFA.png, id=75, 578.6418pt x 433.62pt>
+File: img/Jazzi_WFA.png Graphic file (type png)
+
+<use img/Jazzi_WFA.png>
+Package pdftex.def Info: img/Jazzi_WFA.png used on input line 340.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+ <img/Jazzi_PSF.png, id=76, 1003.75pt x 1003.75pt>
+File: img/Jazzi_PSF.png Graphic file (type png)
+
+<use img/Jazzi_PSF.png>
+Package pdftex.def Info: img/Jazzi_PSF.png used on input line 346.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+ [9
+
+ <./img/Ethan_WFA.png (PNG copy)> <./img/Ethan_PSF.png (PNG copy)> <./img/Jazzi
+_WFA.png (PNG copy)> <./img/Jazzi_PSF.png (PNG copy)>] <img/Kat_WFA.png, id=80,
+ 578.6418pt x 433.62pt>
+File: img/Kat_WFA.png Graphic file (type png)
+ <use img/Kat_WFA.png>
+Package pdftex.def Info: img/Kat_WFA.png used on input line 359.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Kat_PSF.png, id=81, 1003.75pt x 1003.75pt>
+File: img/Kat_PSF.png Graphic file (type png)
+ <use img/Kat_PSF.png>
+Package pdftex.def Info: img/Kat_PSF.png used on input line 365.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+<img/Linyue_WFA.png, id=82, 578.6418pt x 433.62pt>
+File: img/Linyue_WFA.png Graphic file (type png)
+ <use img/Linyue_WFA.png>
+Package pdftex.def Info: img/Linyue_WFA.png used on input line 377.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Linyue_PSF.png, id=83, 1003.75pt x 1003.75pt>
+File: img/Linyue_PSF.png Graphic file (type png)
+ <use img/Linyue_PSF.png>
+Package pdftex.def Info: img/Linyue_PSF.png used on input line 383.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[10
+
+ <./img/Kat_WFA.png (PNG copy)> <./img/Kat_PSF.png (PNG copy)> <./img/Linyue_WF
+A.png (PNG copy)> <./img/Linyue_PSF.png (PNG copy)>]
+<img/Liz_WFA.png, id=87, 578.6418pt x 433.62pt>
+File: img/Liz_WFA.png Graphic file (type png)
+ <use img/Liz_WFA.png>
+Package pdftex.def Info: img/Liz_WFA.png used on input line 397.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Liz_PSF.png, id=88, 1003.75pt x 1003.75pt>
+File: img/Liz_PSF.png Graphic file (type png)
+ <use img/Liz_PSF.png>
+Package pdftex.def Info: img/Liz_PSF.png used on input line 403.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+<img/Michael_WFA.png, id=89, 578.6418pt x 433.62pt>
+File: img/Michael_WFA.png Graphic file (type png)
+ <use img/Michael_WFA.png>
+Package pdftex.def Info: img/Michael_WFA.png used on input line 414.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Michael_PSF.png, id=90, 1003.75pt x 1003.75pt>
+File: img/Michael_PSF.png Graphic file (type png)
+ <use img/Michael_PSF.png>
+Package pdftex.def Info: img/Michael_PSF.png used on input line 420.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[11
+
+ <./img/Liz_WFA.png (PNG copy)> <./img/Liz_PSF.png (PNG copy)> <./img/Michael_W
+FA.png (PNG copy)> <./img/Michael_PSF.png (PNG copy)>]
+<img/Natalie_WFA.png, id=94, 578.6418pt x 433.62pt>
+File: img/Natalie_WFA.png Graphic file (type png)
+ <use img/Natalie_WFA.png>
+Package pdftex.def Info: img/Natalie_WFA.png used on input line 433.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Natalie_PSF.png, id=95, 1003.75pt x 1003.75pt>
+File: img/Natalie_PSF.png Graphic file (type png)
+ <use img/Natalie_PSF.png>
+Package pdftex.def Info: img/Natalie_PSF.png used on input line 439.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+<img/Peter_WFA.png, id=96, 578.6418pt x 433.62pt>
+File: img/Peter_WFA.png Graphic file (type png)
+ <use img/Peter_WFA.png>
+Package pdftex.def Info: img/Peter_WFA.png used on input line 451.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Peter_PSF.png, id=97, 1003.75pt x 1003.75pt>
+File: img/Peter_PSF.png Graphic file (type png)
+ <use img/Peter_PSF.png>
+Package pdftex.def Info: img/Peter_PSF.png used on input line 457.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[12
+
+ <./img/Natalie_WFA.png (PNG copy)> <./img/Natalie_PSF.png (PNG copy)> <./img/P
+eter_WFA.png (PNG copy)> <./img/Peter_PSF.png (PNG copy)>]
+<img/Sanam_WFA.png, id=101, 578.6418pt x 433.62pt>
+File: img/Sanam_WFA.png Graphic file (type png)
+ <use img/Sanam_WFA.png>
+Package pdftex.def Info: img/Sanam_WFA.png used on input line 470.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Sanam_PSF.png, id=102, 1003.75pt x 1003.75pt>
+File: img/Sanam_PSF.png Graphic file (type png)
+ <use img/Sanam_PSF.png>
+Package pdftex.def Info: img/Sanam_PSF.png used on input line 476.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+<img/Sarah_WFA.png, id=103, 578.6418pt x 433.62pt>
+File: img/Sarah_WFA.png Graphic file (type png)
+ <use img/Sarah_WFA.png>
+Package pdftex.def Info: img/Sarah_WFA.png used on input line 487.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Sarah_PSF.png, id=104, 1003.75pt x 1003.75pt>
+File: img/Sarah_PSF.png Graphic file (type png)
+ <use img/Sarah_PSF.png>
+Package pdftex.def Info: img/Sarah_PSF.png used on input line 493.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[13
+
+ <./img/Sanam_WFA.png (PNG copy)> <./img/Sanam_PSF.png (PNG copy)> <./img/Sarah
+_WFA.png (PNG copy)> <./img/Sarah_PSF.png (PNG copy)>]
+<img/Sylvain_WFA.png, id=109, 578.6418pt x 433.62pt>
+File: img/Sylvain_WFA.png Graphic file (type png)
+ <use img/Sylvain_WFA.png>
+Package pdftex.def Info: img/Sylvain_WFA.png used on input line 508.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Sylvain_PSF.png, id=110, 1003.75pt x 1003.75pt>
+File: img/Sylvain_PSF.png Graphic file (type png)
+ <use img/Sylvain_PSF.png>
+Package pdftex.def Info: img/Sylvain_PSF.png used on input line 514.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+<img/Vasha_WFA.png, id=111, 578.6418pt x 433.62pt>
+File: img/Vasha_WFA.png Graphic file (type png)
+ <use img/Vasha_WFA.png>
+Package pdftex.def Info: img/Vasha_WFA.png used on input line 525.
+(pdftex.def)             Requested size: 234.8775pt x 176.01213pt.
+
+<img/Vasha_PSF.png, id=112, 1003.75pt x 1003.75pt>
+File: img/Vasha_PSF.png Graphic file (type png)
+ <use img/Vasha_PSF.png>
+Package pdftex.def Info: img/Vasha_PSF.png used on input line 531.
+(pdftex.def)             Requested size: 187.90271pt x 187.89635pt.
+
+[14
+
+ <./img/Sylvain_WFA.png (PNG copy)> <./img/Sylvain_PSF.png (PNG copy)> <./img/V
+asha_WFA.png (PNG copy)> <./img/Vasha_PSF.png (PNG copy)>]
+<img/mtfs.pdf, id=116, 1084.05pt x 361.35pt>
+File: img/mtfs.pdf Graphic file (type pdf)
+ <use img/mtfs.pdf>
+Package pdftex.def Info: img/mtfs.pdf used on input line 546.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+
+<img/drmsstrehl.pdf, id=117, 1084.05pt x 361.35pt>
+File: img/drmsstrehl.pdf Graphic file (type pdf)
+ <use img/drmsstrehl.pdf>
+Package pdftex.def Info: img/drmsstrehl.pdf used on input line 561.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+
+[15
+
+ <./img/mtfs.pdf> <./img/drmsstrehl.pdf>]
+<img/Vasha_R_G_0530_2_500_zer_1_5_PSF.png, id=135, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_1_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_1_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_1_5_PSF.png used on input
+ line 575.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_1_5_PSF.png, id=136, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_1_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_1_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_1_5_PSF.png used on input l
+ine 581.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_1_5_PSF.png, id=137, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_1_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_1_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_1_5_PSF.png used on input l
+ine 587.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_1_5_PSF_convE.png, id=138, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_1_5_PSF_convE.png Graphic file (type png)
+<use img/Vasha_R_G_0530_2_500_zer_1_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_1_5_PSF_convE.png used on
+ input line 596.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_1_5_PSF_convE.png, id=139, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_1_5_PSF_convE.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_1_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_1_5_PSF_convE.png used on i
+nput line 602.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_1_5_PSF_convE.png, id=140, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_1_5_PSF_convE.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_1_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_1_5_PSF_convE.png used on i
+nput line 608.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [16
+
+ <./img/Vasha_R_G_0530_2_500_zer_1_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_2_
+500_zer_1_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_1_5_PSF.png (PNG 
+copy)> <./img/Vasha_R_G_0530_2_500_zer_1_5_PSF_convE.png (PNG copy)> <./img/Liz
+_R_G_0523_2_500_zer_1_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526_1_500_zer
+_1_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_075_5_PSF.png, id=144, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_075_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_075_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_075_5_PSF.png used on inp
+ut line 623.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_075_5_PSF.png, id=145, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_075_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_075_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_075_5_PSF.png used on input
+ line 629.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_075_5_PSF.png, id=146, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_075_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_075_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_075_5_PSF.png used on input
+ line 635.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_075_5_PSF_convE.png, id=147, 1003.75pt x 1003.75p
+t>
+File: img/Vasha_R_G_0530_2_500_zer_075_5_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_500_zer_075_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_075_5_PSF_convE.png used 
+on input line 644.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_075_5_PSF_convE.png, id=148, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_075_5_PSF_convE.png Graphic file (type png)
+<use img/Liz_R_G_0523_2_500_zer_075_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_075_5_PSF_convE.png used on
+ input line 650.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_075_5_PSF_convE.png, id=149, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_075_5_PSF_convE.png Graphic file (type png)
+<use img/Angie_R_0526_1_500_zer_075_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_075_5_PSF_convE.png used on
+ input line 656.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [17
+
+ <./img/Vasha_R_G_0530_2_500_zer_075_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_
+2_500_zer_075_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_075_5_PSF.png
+ (PNG copy)> <./img/Vasha_R_G_0530_2_500_zer_075_5_PSF_convE.png (PNG copy)> <.
+/img/Liz_R_G_0523_2_500_zer_075_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526
+_1_500_zer_075_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_05_5_PSF.png, id=153, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_05_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_05_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_05_5_PSF.png used on inpu
+t line 672.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_05_5_PSF.png, id=154, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_05_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_05_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_05_5_PSF.png used on input 
+line 678.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_05_5_PSF.png, id=155, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_05_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_05_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_05_5_PSF.png used on input 
+line 684.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_05_5_PSF_convE.png, id=156, 1003.75pt x 1003.75pt
+>
+File: img/Vasha_R_G_0530_2_500_zer_05_5_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_500_zer_05_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_05_5_PSF_convE.png used o
+n input line 693.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_05_5_PSF_convE.png, id=157, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_05_5_PSF_convE.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_05_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_05_5_PSF_convE.png used on 
+input line 699.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_05_5_PSF_convE.png, id=158, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_05_5_PSF_convE.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_05_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_05_5_PSF_convE.png used on 
+input line 705.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [18
+
+ <./img/Vasha_R_G_0530_2_500_zer_05_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_2
+_500_zer_05_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_05_5_PSF.png (P
+NG copy)> <./img/Vasha_R_G_0530_2_500_zer_05_5_PSF_convE.png (PNG copy)> <./img
+/Liz_R_G_0523_2_500_zer_05_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526_1_50
+0_zer_05_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_025_5_PSF.png, id=162, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_025_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_025_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_025_5_PSF.png used on inp
+ut line 721.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_025_5_PSF.png, id=163, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_025_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_025_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_025_5_PSF.png used on input
+ line 727.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_025_5_PSF.png, id=164, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_025_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_025_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_025_5_PSF.png used on input
+ line 733.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_025_5_PSF_convE.png, id=165, 1003.75pt x 1003.75p
+t>
+File: img/Vasha_R_G_0530_2_500_zer_025_5_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_500_zer_025_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_025_5_PSF_convE.png used 
+on input line 742.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_025_5_PSF_convE.png, id=166, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_025_5_PSF_convE.png Graphic file (type png)
+<use img/Liz_R_G_0523_2_500_zer_025_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_025_5_PSF_convE.png used on
+ input line 748.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_025_5_PSF_convE.png, id=167, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_025_5_PSF_convE.png Graphic file (type png)
+<use img/Angie_R_0526_1_500_zer_025_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_025_5_PSF_convE.png used on
+ input line 754.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [19
+
+ <./img/Vasha_R_G_0530_2_500_zer_025_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_
+2_500_zer_025_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_025_5_PSF.png
+ (PNG copy)> <./img/Vasha_R_G_0530_2_500_zer_025_5_PSF_convE.png (PNG copy)> <.
+/img/Liz_R_G_0523_2_500_zer_025_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526
+_1_500_zer_025_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png, id=172, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png used on input
+ line 770.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_0_5_PSF.png, id=173, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_0_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_0_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_0_5_PSF.png used on input l
+ine 776.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_0_5_PSF.png, id=174, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_0_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_0_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_0_5_PSF.png used on input l
+ine 782.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png, id=175, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png Graphic file (type png)
+<use img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png used on
+ input line 791.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_0_5_PSF_convE.png, id=176, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_0_5_PSF_convE.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_0_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_0_5_PSF_convE.png used on i
+nput line 797.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_0_5_PSF_convE.png, id=177, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_0_5_PSF_convE.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_0_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_0_5_PSF_convE.png used on i
+nput line 803.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [20
+
+ <./img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_2_
+500_zer_0_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_0_5_PSF.png (PNG 
+copy)> <./img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png (PNG copy)> <./img/Liz
+_R_G_0523_2_500_zer_0_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526_1_500_zer
+_0_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_-025_5_PSF.png, id=181, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_-025_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_-025_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-025_5_PSF.png used on in
+put line 819.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-025_5_PSF.png, id=182, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-025_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_-025_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-025_5_PSF.png used on inpu
+t line 825.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-025_5_PSF.png, id=183, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-025_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_-025_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-025_5_PSF.png used on inpu
+t line 831.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_-025_5_PSF_convE.png, id=184, 1003.75pt x 1003.75
+pt>
+File: img/Vasha_R_G_0530_2_500_zer_-025_5_PSF_convE.png Graphic file (type png)
+
+ <use img/Vasha_R_G_0530_2_500_zer_-025_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-025_5_PSF_convE.png used
+ on input line 840.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-025_5_PSF_convE.png, id=185, 1003.75pt x 1003.75pt
+>
+File: img/Liz_R_G_0523_2_500_zer_-025_5_PSF_convE.png Graphic file (type png)
+ <use img/Liz_R_G_0523_2_500_zer_-025_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-025_5_PSF_convE.png used o
+n input line 846.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-025_5_PSF_convE.png, id=186, 1003.75pt x 1003.75pt
+>
+File: img/Angie_R_0526_1_500_zer_-025_5_PSF_convE.png Graphic file (type png)
+ <use img/Angie_R_0526_1_500_zer_-025_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-025_5_PSF_convE.png used o
+n input line 852.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [21
+
+ <./img/Vasha_R_G_0530_2_500_zer_-025_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523
+_2_500_zer_-025_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_-025_5_PSF.
+png (PNG copy)> <./img/Vasha_R_G_0530_2_500_zer_-025_5_PSF_convE.png (PNG copy)
+> <./img/Liz_R_G_0523_2_500_zer_-025_5_PSF_convE.png (PNG copy)> <./img/Angie_R
+_0526_1_500_zer_-025_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_-05_5_PSF.png, id=190, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_-05_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_-05_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-05_5_PSF.png used on inp
+ut line 869.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-05_5_PSF.png, id=191, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-05_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_-05_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-05_5_PSF.png used on input
+ line 875.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-05_5_PSF.png, id=192, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-05_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_-05_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-05_5_PSF.png used on input
+ line 881.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_-05_5_PSF_convE.png, id=193, 1003.75pt x 1003.75p
+t>
+File: img/Vasha_R_G_0530_2_500_zer_-05_5_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_500_zer_-05_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-05_5_PSF_convE.png used 
+on input line 890.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-05_5_PSF_convE.png, id=194, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-05_5_PSF_convE.png Graphic file (type png)
+<use img/Liz_R_G_0523_2_500_zer_-05_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-05_5_PSF_convE.png used on
+ input line 896.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-05_5_PSF_convE.png, id=195, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-05_5_PSF_convE.png Graphic file (type png)
+<use img/Angie_R_0526_1_500_zer_-05_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-05_5_PSF_convE.png used on
+ input line 902.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [22
+
+ <./img/Vasha_R_G_0530_2_500_zer_-05_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_
+2_500_zer_-05_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_-05_5_PSF.png
+ (PNG copy)> <./img/Vasha_R_G_0530_2_500_zer_-05_5_PSF_convE.png (PNG copy)> <.
+/img/Liz_R_G_0523_2_500_zer_-05_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526
+_1_500_zer_-05_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_-075_5_PSF.png, id=199, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_-075_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_-075_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-075_5_PSF.png used on in
+put line 918.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-075_5_PSF.png, id=200, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-075_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_-075_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-075_5_PSF.png used on inpu
+t line 924.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-075_5_PSF.png, id=201, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-075_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_-075_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-075_5_PSF.png used on inpu
+t line 930.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_-075_5_PSF_convE.png, id=202, 1003.75pt x 1003.75
+pt>
+File: img/Vasha_R_G_0530_2_500_zer_-075_5_PSF_convE.png Graphic file (type png)
+
+ <use img/Vasha_R_G_0530_2_500_zer_-075_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-075_5_PSF_convE.png used
+ on input line 940.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-075_5_PSF_convE.png, id=203, 1003.75pt x 1003.75pt
+>
+File: img/Liz_R_G_0523_2_500_zer_-075_5_PSF_convE.png Graphic file (type png)
+ <use img/Liz_R_G_0523_2_500_zer_-075_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-075_5_PSF_convE.png used o
+n input line 946.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-075_5_PSF_convE.png, id=204, 1003.75pt x 1003.75pt
+>
+File: img/Angie_R_0526_1_500_zer_-075_5_PSF_convE.png Graphic file (type png)
+ <use img/Angie_R_0526_1_500_zer_-075_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-075_5_PSF_convE.png used o
+n input line 952.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [23
+
+ <./img/Vasha_R_G_0530_2_500_zer_-075_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523
+_2_500_zer_-075_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_-075_5_PSF.
+png (PNG copy)> <./img/Vasha_R_G_0530_2_500_zer_-075_5_PSF_convE.png (PNG copy)
+> <./img/Liz_R_G_0523_2_500_zer_-075_5_PSF_convE.png (PNG copy)> <./img/Angie_R
+_0526_1_500_zer_-075_5_PSF_convE.png (PNG copy)>]
+<img/Vasha_R_G_0530_2_500_zer_-1_5_PSF.png, id=208, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_500_zer_-1_5_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_-1_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-1_5_PSF.png used on inpu
+t line 968.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-1_5_PSF.png, id=209, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-1_5_PSF.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_-1_5_PSF.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-1_5_PSF.png used on input 
+line 974.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-1_5_PSF.png, id=210, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-1_5_PSF.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_-1_5_PSF.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-1_5_PSF.png used on input 
+line 980.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Vasha_R_G_0530_2_500_zer_-1_5_PSF_convE.png, id=211, 1003.75pt x 1003.75pt
+>
+File: img/Vasha_R_G_0530_2_500_zer_-1_5_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_500_zer_-1_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_-1_5_PSF_convE.png used o
+n input line 989.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Liz_R_G_0523_2_500_zer_-1_5_PSF_convE.png, id=212, 1003.75pt x 1003.75pt>
+File: img/Liz_R_G_0523_2_500_zer_-1_5_PSF_convE.png Graphic file (type png)
+
+<use img/Liz_R_G_0523_2_500_zer_-1_5_PSF_convE.png>
+Package pdftex.def Info: img/Liz_R_G_0523_2_500_zer_-1_5_PSF_convE.png used on 
+input line 995.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+
+<img/Angie_R_0526_1_500_zer_-1_5_PSF_convE.png, id=213, 1003.75pt x 1003.75pt>
+File: img/Angie_R_0526_1_500_zer_-1_5_PSF_convE.png Graphic file (type png)
+
+<use img/Angie_R_0526_1_500_zer_-1_5_PSF_convE.png>
+Package pdftex.def Info: img/Angie_R_0526_1_500_zer_-1_5_PSF_convE.png used on 
+input line 1001.
+(pdftex.def)             Requested size: 140.92793pt x 140.92226pt.
+ [24
+
+ <./img/Vasha_R_G_0530_2_500_zer_-1_5_PSF.png (PNG copy)> <./img/Liz_R_G_0523_2
+_500_zer_-1_5_PSF.png (PNG copy)> <./img/Angie_R_0526_1_500_zer_-1_5_PSF.png (P
+NG copy)> <./img/Vasha_R_G_0530_2_500_zer_-1_5_PSF_convE.png (PNG copy)> <./img
+/Liz_R_G_0523_2_500_zer_-1_5_PSF_convE.png (PNG copy)> <./img/Angie_R_0526_1_50
+0_zer_-1_5_PSF_convE.png (PNG copy)>] <img/vasha_dmtfs.pdf, id=217, 1084.05pt x
+ 361.35pt>
+File: img/vasha_dmtfs.pdf Graphic file (type pdf)
+
+<use img/vasha_dmtfs.pdf>
+Package pdftex.def Info: img/vasha_dmtfs.pdf used on input line 1019.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+ <img/liz_dmtfs.pdf, id=218, 1084.05pt x 361.35pt>
+File: img/liz_dmtfs.pdf Graphic file (type pdf)
+
+<use img/liz_dmtfs.pdf>
+Package pdftex.def Info: img/liz_dmtfs.pdf used on input line 1027.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+ <img/angie_dmtfs.pdf, id=219, 1084.05pt x 361.35pt>
+File: img/angie_dmtfs.pdf Graphic file (type pdf)
+
+<use img/angie_dmtfs.pdf>
+Package pdftex.def Info: img/angie_dmtfs.pdf used on input line 1035.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+ [25
+
+ <./img/vasha_dmtfs.pdf> <./img/liz_dmtfs.pdf>]
+<img/vashapupilsize.pdf, id=238, 722.7pt x 361.35pt>
+File: img/vashapupilsize.pdf Graphic file (type pdf)
+
+<use img/vashapupilsize.pdf>
+Package pdftex.def Info: img/vashapupilsize.pdf used on input line 1051.
+(pdftex.def)             Requested size: 469.75502pt x 234.88023pt.
+
+<img/vashabestpupilsize.pdf, id=239, 578.16pt x 361.35pt>
+File: img/vashabestpupilsize.pdf Graphic file (type pdf)
+
+<use img/vashabestpupilsize.pdf>
+Package pdftex.def Info: img/vashabestpupilsize.pdf used on input line 1076.
+(pdftex.def)             Requested size: 469.75502pt x 293.59616pt.
+ [26 <./img/angie_dmtfs.pdf> <./img/vashapupilsize.pdf>] [27 <./img/vashabestpu
+pilsize.pdf>]
+<img/Vasha_R_G_0530_2_300_zer_-07_3_PSF.png, id=268, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_300_zer_-07_3_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_300_zer_-07_3_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_300_zer_-07_3_PSF.png used on inp
+ut line 1093.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_300_zer_-07_3_PSF_convE.png, id=269, 1003.75pt x 1003.75p
+t>
+File: img/Vasha_R_G_0530_2_300_zer_-07_3_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_300_zer_-07_3_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_300_zer_-07_3_PSF_convE.png used 
+on input line 1099.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_400_zer_-03_4_PSF.png, id=270, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_400_zer_-03_4_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_400_zer_-03_4_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_400_zer_-03_4_PSF.png used on inp
+ut line 1105.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_400_zer_-03_4_PSF_convE.png, id=271, 1003.75pt x 1003.75p
+t>
+File: img/Vasha_R_G_0530_2_400_zer_-03_4_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_400_zer_-03_4_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_400_zer_-03_4_PSF_convE.png used 
+on input line 1111.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 1091--1115
+[]$[]$$[]$ $[]$$[]$ 
+ []
+
+File: img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png Graphic file (type png)
+<use img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_0_5_PSF.png used on input
+ line 1123.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+File: img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_500_zer_0_5_PSF_convE.png used on
+ input line 1129.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_600_zer_02_6_PSF.png, id=272, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_600_zer_02_6_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_600_zer_02_6_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_600_zer_02_6_PSF.png used on inpu
+t line 1135.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_600_zer_02_6_PSF_convE.png, id=273, 1003.75pt x 1003.75pt
+>
+File: img/Vasha_R_G_0530_2_600_zer_02_6_PSF_convE.png Graphic file (type png)
+ <use img/Vasha_R_G_0530_2_600_zer_02_6_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_600_zer_02_6_PSF_convE.png used o
+n input line 1141.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 1121--1145
+[]$[]$$[]$ $[]$$[]$ 
+ []
+
+
+<img/Vasha_R_G_0530_2_631_zer_05_63167_PSF.png, id=274, 1003.75pt x 1003.75pt>
+File: img/Vasha_R_G_0530_2_631_zer_05_63167_PSF.png Graphic file (type png)
+
+<use img/Vasha_R_G_0530_2_631_zer_05_63167_PSF.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_631_zer_05_63167_PSF.png used on 
+input line 1153.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+
+<img/Vasha_R_G_0530_2_631_zer_05_63167_PSF_convE.png, id=275, 1003.75pt x 1003.
+75pt>
+File: img/Vasha_R_G_0530_2_631_zer_05_63167_PSF_convE.png Graphic file (type pn
+g)
+ <use img/Vasha_R_G_0530_2_631_zer_05_63167_PSF_convE.png>
+Package pdftex.def Info: img/Vasha_R_G_0530_2_631_zer_05_63167_PSF_convE.png us
+ed on input line 1159.
+(pdftex.def)             Requested size: 117.43875pt x 117.42755pt.
+ [28
+
+ <./img/Vasha_R_G_0530_2_300_zer_-07_3_PSF.png (PNG copy)> <./img/Vasha_R_G_053
+0_2_300_zer_-07_3_PSF_convE.png (PNG copy)> <./img/Vasha_R_G_0530_2_400_zer_-03
+_4_PSF.png (PNG copy)> <./img/Vasha_R_G_0530_2_400_zer_-03_4_PSF_convE.png (PNG
+ copy)> <./img/Vasha_R_G_0530_2_600_zer_02_6_PSF.png (PNG copy)> <./img/Vasha_R
+_G_0530_2_600_zer_02_6_PSF_convE.png (PNG copy)> <./img/Vasha_R_G_0530_2_631_ze
+r_05_63167_PSF.png (PNG copy)> <./img/Vasha_R_G_0530_2_631_zer_05_63167_PSF_con
+vE.png (PNG copy)>] <img/mtfvasha.pdf, id=279, 1084.05pt x 361.35pt>
+File: img/mtfvasha.pdf Graphic file (type pdf)
+
+<use img/mtfvasha.pdf>
+Package pdftex.def Info: img/mtfvasha.pdf used on input line 1174.
+(pdftex.def)             Requested size: 469.75502pt x 156.58498pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1184
+.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1184.
+
+ [29 <./img/mtfvasha.pdf>] [30]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+ [31] [32] [33] [34] (./DutellLabReport.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4595 strings out of 493089
+ 80680 string characters out of 6134842
+ 138888 words of memory out of 5000000
+ 7927 multiletter control sequences out of 15000+600000
+ 9668 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,40p,1317b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on DutellLabReport.pdf (34 pages, 4818233 bytes).
+PDF statistics:
+ 355 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 546 words of extra memory for PDF output out of 10000 (max. 10000000)
+
